@@ -1,3 +1,5 @@
 Buenos dias, este es un ejemplo para probar como este cambio va a mi repositorio local.
 
 Soy de Venezuela.
+
+Me gusta la comida italiana.
