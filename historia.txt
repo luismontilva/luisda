@@ -7,3 +7,5 @@ Me gusta la comida italiana.
 Me gusta el tenis y la formula 1.
 
 Me gusta comer helado.
+
+Me gusta trotar y escuchar musica
