@@ -5,3 +5,5 @@ Soy de Venezuela.
 Me gusta la comida italiana.
 
 Me gusta el tenis y la formula 1.
+
+Me gusta comer helado.
