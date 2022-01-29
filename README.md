@@ -7,4 +7,6 @@ Aqui construire mi primer repositorio. 😀
 * Todos los comandos de Git
 * Flujod de trabajo en GitHub
 
+Creado por el increible Platzi Team
+
 Espero aprender mucho mas 👀
